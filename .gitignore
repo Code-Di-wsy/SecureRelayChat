@@ -1,0 +1,25 @@
+.keys/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+
+# 虚拟环境
+.venv/
+venv/
+env/
+
+# Python 缓存
+*.egg-info/
+
+
+# IDE
+.idea/
+.vscode/
+
+# 环境变量/密钥
+.env
+
+# 日志/构建产物
+*.log
+dist/
+build/
